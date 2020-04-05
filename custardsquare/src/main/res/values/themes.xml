@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CustardSquare" parent="Theme.MaterialComponents.DayNight.NoActionBar">\
+
+        <item name="colorPrimary">@color/pure_blue_700</item>
+        <item name="colorAccent">@color/fruju_100</item>
+
+    </style>
+
+
+</resources>

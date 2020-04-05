@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colour Pallet based on material colour tool -->
+    <color name="pure_blue_900">#01579b</color>
+    <color name="pure_blue_800">#0277bd</color>
+    <color name="pure_blue_700">#0288d1</color>
+    <color name="pure_blue_600">#039be5</color>
+    <color name="pure_blue_500">#03a9f4</color>
+    <color name="pure_blue_400">#29b6f6</color>
+    <color name="pure_blue_300">#4fc3f7</color>
+    <color name="pure_blue_200">#81d4fa</color>
+    <color name="pure_blue_100">#b3e5fc</color>
+
+    <color name="kiwifruit_900">#01579b</color>
+    <color name="kiwifruit_800">#01579b</color>
+    <color name="kiwifruit_700">#01579b</color>
+    <color name="kiwifruit_600">#01579b</color>
+    <color name="kiwifruit_500">#01579b</color>
+    <color name="kiwifruit_400">#01579b</color>
+    <color name="kiwifruit_300">#01579b</color>
+    <color name="kiwifruit_200">#01579b</color>
+    <color name="kiwifruit_100">#01579b</color>
+
+    <color name="snapper_900">#b71c1c</color>
+    <color name="snapper_800">#c62828</color>
+    <color name="snapper_700">#d32f2f</color>
+    <color name="snapper_600">#e53935</color>
+    <color name="snapper_500">#f44336</color>
+    <color name="snapper_400">#ef5350</color>
+    <color name="snapper_300">#e57373</color>
+    <color name="snapper_200">#ef9a9a</color>
+    <color name="snapper_100">#ffcdd2</color>
+
+    <color name="fruju_900">#e65100</color>
+    <color name="fruju_800">#ef6c00</color>
+    <color name="fruju_700">#f57c00</color>
+    <color name="fruju_600">#fb8c00</color>
+    <color name="fruju_500">#ff9800</color>
+    <color name="fruju_400">#ffa726</color>
+    <color name="fruju_300">#ffa726</color>
+    <color name="fruju_200">#ffa726</color>
+    <color name="fruju_100">#ffa726</color>
+
+    <color name="silver_fern_900">#212121</color>
+    <color name="silver_fern_800">#424242</color>
+    <color name="silver_fern_700">#616161</color>
+    <color name="silver_fern_600">#757575</color>
+    <color name="silver_fern_500">#9e9e9e</color>
+    <color name="silver_fern_400">#bdbdbd</color>
+    <color name="silver_fern_300">#e0e0e0</color>
+    <color name="silver_fern_200">#eeeeee</color>
+    <color name="silver_fern_100">#f5f5f5</color>
+
+    <color name="pinky_900">#212121</color>
+    <color name="pinky_800">#212121</color>
+    <color name="pinky_700">#212121</color>
+    <color name="pinky_600">#212121</color>
+    <color name="pinky_500">#212121</color>
+    <color name="pinky_400">#212121</color>
+    <color name="pinky_300">#212121</color>
+    <color name="pinky_200">#212121</color>
+    <color name="pinky_100">#212121</color>
+
+    <color name="blackswan_900">#212121</color>
+    <color name="blackswan_800">#212121</color>
+    <color name="blackswan_700">#212121</color>
+    <color name="blackswan_600">#212121</color>
+    <color name="blackswan_500">#212121</color>
+    <color name="blackswan_400">#212121</color>
+    <color name="blackswan_300">#212121</color>
+    <color name="blackswan_200">#212121</color>
+    <color name="blackswan_100">#212121</color>
+
+</resources>
